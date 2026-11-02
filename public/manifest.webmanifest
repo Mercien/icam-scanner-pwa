@@ -1,0 +1,24 @@
+{
+  "name": "ICAM Scanner — Imagine Cinemas",
+  "short_name": "ICAM Scanner",
+  "description": "Event attendance scanning for Imagine Cinemas staff. Scan attendee QR tickets and record check-ins through the ICAM WordPress plugin.",
+  "version": "1.1.0",
+  "version_name": "v1.1.0 — Production",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#d97706",
+  "categories": ["productivity", "utilities", "business"],
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    { "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
